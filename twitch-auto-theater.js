@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Twitch Auto Theater
-// @version      1.0.1
+// @version      1.0.2
 // @updateURL    https://raw.githubusercontent.com/domosapien/Twitch-Auto-Theater/master/twitch-auto-theater.js
 // @downloadURL  https://raw.githubusercontent.com/domosapien/Twitch-Auto-Theater/master/twitch-auto-theater.js
 // @match        www.twitch.tv/*
+// @grant        none
 // ==/UserScript==
 
 /* jshint -W097 jquery:true */
