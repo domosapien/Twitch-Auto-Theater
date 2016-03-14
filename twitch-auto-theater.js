@@ -23,6 +23,7 @@ var observer = new MutationObserver(function (mutations) {
 			if ($node.length) {
 				$node.trigger('click');
 				observer.disconnect();
+				return;
 			}
 		}
 	});
