@@ -1,0 +1,27 @@
+{
+	"maxerr": 5000,
+	"bitwise": true,
+	"curly": true,
+	"eqeqeq": true,
+	"forin": true,
+	"latedef": "nofunc",
+	"noarg": true,
+	"nonew": true,
+	"strict": "global",
+	"globalstrict": true,
+	"undef": true,
+	"unused": true,
+
+	"__dep-JSCS": "Moving to JSCS project.",
+	"immed": true,
+	"newcap": true,
+	"noempty": true,
+	"quotmark": "single",
+
+	"__global-groups": "Activations of global packages.",
+	"typed": true,
+
+	"browser": true,
+	"jquery": true,
+	"devel": true
+}
